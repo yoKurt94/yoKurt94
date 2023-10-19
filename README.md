@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yoKurt94
-- 👀 I’m interested in mashine learning, iOS, React and furniture design 
-- 🌱 I’m currently learning tensorflow and linear algebra
+- 👀 I’m interested in machine learning, iOS, React and furniture design 
 - 💞️ I’m looking to collaborate on iOS, Python or AI projects
 - 📫 Reach me via email: yannik.hoernschemeyer@gmail.com
