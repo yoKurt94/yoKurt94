@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @yoKurt94
 - 📫 Reach me via email: yannik.hoernschemeyer@gmail.com
